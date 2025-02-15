@@ -1,0 +1,10 @@
+extensions:
+  dir_created: "Extensions directory created: "
+  none_found: "No extensions found."
+  hash_not_allowed: "Extension rejected (hash not allowed): "
+  missing_yml: "extension.yml missing in "
+  invalid_yml: "Invalid extension.yml in "
+  api_version_mismatch: "API version mismatch in "
+  loaded: "Extension loaded: "
+  invalid_class: "Main class does not implement UBuilderExtension: "
+  load_error: "Failed to load extension: "

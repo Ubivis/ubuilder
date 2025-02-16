@@ -1,0 +1,5 @@
+downloadBaseUrl: https://github.com/Ubivis/ubuilder/releases/latest/download/
+extensions:
+  SimpleWallPlan-1.0.jar:
+    version: 1
+
